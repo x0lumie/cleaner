@@ -89,7 +89,3 @@ dist/leftover_cleaner.exe
 - Deletion is permanent (does not send to Recycle Bin).
 
 ---
-
-## 📄 License
-
-Add your preferred license here.
